@@ -7,7 +7,7 @@
 1. Section 1-data science: many skills 负责人 ：[]() []()  状态：待认领/进行中/完成
 2. chp1 About Data 负责人 ：[]() []()  状态：待认领/进行中/完成
 3. chp2 Identifying Data Problems 负责人 ：[]() []()  状态：待认领/进行中/完成
-4. chp3 Getting Started with R 负责人 ：[]() []()  状态：待认领/进行中/完成
+4. chp3 Getting Started with R 负责人乐果 785492610：[]() []()  状态：待认领/进行中/完成
 5. chp4 Follow the Data 负责人 ：[]() []()  状态：待认领/进行中/完成
 6. chp5 Rows and Columns 负责人 ：[]() []()  状态：待认领/进行中/完成
 7. chp6 Beer, Farms, and Peas 负责人 ：[]() []()  状态：待认领/进行中/完成
